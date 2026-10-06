@@ -71,7 +71,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif query.data == 'main_menu':
         await start(update, context)
 
-if __name__ == '__main__':
+​8884206258:AAH3pT3Vys4-R7_nkKTQXUKRSkqYcD0rVW8
     # BotFather'dan olingan TOKEN'ni shu yerga qo'yasiz:
     TOKEN = "YOUR_BOT_TOKEN_HERE"
     
