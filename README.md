@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 # Admin ID raqami (boshida 0 turibdi, /id deb yozib o'zgartirishingiz mumkin)
-ADMIN_ID = 0
+ADMIN_ID = 8880664748
 
 # Testlar bazasi: { test_kodi: {"answers": "abcd...", "end_time": "23:00", "active": True, "users": {}} }
 TESTS = {}
